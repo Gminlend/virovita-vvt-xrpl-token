@@ -8,6 +8,16 @@ Token issuance and trustline setup via xrpl.js
 MIT-licensed open-source token scripts
 Blockchain-secured health access and payment flows
 Designed for integration with Virovita Cross-Care, AeroMed, and AI health modules
+
+## XRPL Explorer Links
+
+You can view Virovita Token (VVT) live on-chain via these trusted XRPL explorers:
+
+- [View on XRPSCAN] (https://xrpscan.com/account/r421CokCfwPxabbdXzCJ77vHkw6eAUWXua)
+- [View on Bithomp] (https://bithomp.com/explorer/r421CokCfwPxabbdXzCJ77vHkw6eAUWXua)
+
+ ✅ Virovita Token(VVT) is verified with symbol, logo, and token metadata using `xrp-ledger.toml`
+
 ## ## License Scope
 
 This repository contains both open-source and proprietary components.
