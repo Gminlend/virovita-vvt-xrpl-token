@@ -1,5 +1,5 @@
 # virovita-vvt-xrpl-token
-Virovita Token (VVT): XRPL-based utility token enabling decentralized borderless healthcare services, smart identity, AI-driven diagnostics, and global healthcare &amp; wellness payments.
+Virovita Token (VVT): XRPL-based utility token enabling decentralized borderless healthcare services, smart identity, AI-driven diagnostics, and global healthcare & wellness payments.
 ## Purpose
 This repository includes configution,scripts, and documentation related to the creation, issuance, and managementof the Virovita token or VVT on the XRP Ledger, aligned with Virovita HealthGlobal's mission to transform global healthcare access.
 ### Features
@@ -7,7 +7,7 @@ XRPL-native token configuration
 Token issuance and trustline setup via xrpl.js
 MIT-licensed open-source token scripts
 Blockchain-secured health access and payment flows
-Designed for integration with Virovita Cross-Care, AeroMed, and AI health modules
+Designed for integration with Virovita Cross-Care, Virovita's biotech integrated products, and AI health modules
 
 ## XRPL Explorer Links
 
