@@ -25,17 +25,9 @@ Paying for autonomous drone-dispatched medical services
 For a detailed  breakdown of all use cases, technical flow, and tokenomics, please refer to Virovita's Whitepaper in the attachment
 
 ## Getting Started
-To explore the project:
 ```bash
 git clone https://github.com/Gminlend/virovita-vvt-xrpl-token.git
-cd virovita-vvt-xrpl-token
-### Features
-XRPL-native token configuration
-Token issuance and trustline setup via xrpl.js
-MIT-licensed open-source token scripts
-Blockchain-secured health access and payment flows
-Designed for integration with Virovita Cross-Care, AeroMed platforms, Virovita's biotech integrated products, and AI health modules
-
+cd virovita-vvt-xrpl-token"""
 ## XRPL Explorer Links
 
 You can view Virovita Token (VVT) live on-chain via these trusted XRPL explorers:
