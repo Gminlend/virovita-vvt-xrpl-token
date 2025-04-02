@@ -21,10 +21,8 @@ Virovita Token(VVT) is used for :
 - Secure exchange of biometric/genomic data with user consent  
 - Staking for premium platform features  
 - Health data incentives through IoT & wearable integrations  
-- Paying for autonomous drone-dispatched medical services  
-
-For a detailed breakdown of all use cases, technical flow, and tokenomics, please refer to the Virovita Whitepaper in the attachment.
-
+- Paying for autonomous drone-dispatched medical services
+- For a detailed breakdown of all use cases, technical flow, and tokenomics, please refer to the Virovita Whitepaper in the attachment.
 
 ## Getting Started
 '''bash
@@ -34,8 +32,8 @@ cd virovita-vvt-xrpl-token'''
 
 You can view Virovita Token (VVT) live on-chain via these trusted XRPL explorers:
 
-- [View on XRPSCAN](https://xrpscan.com/account/r421CokCfwPxabbdXzCJ77vHkw6eAUWXua)
-- [View on Bithomp](https://bithomp.com/explorer/r421CokCfwPxabbdXzCJ77vHkw6eAUWXua)
+- [View on XRPSCAN]https://xrpscan.com/account/r421CokCfwPxabbdXzCJ77vHkw6eAUWXua
+- [View on Bithomp]https://bithomp.com/explorer/r421CokCfwPxabbdXzCJ77vHkw6eAUWXua
 
  ✅ Virovita Token(VVT) is verified with symbol, logo, and token metadata using `xrp-ledger.toml`
 
