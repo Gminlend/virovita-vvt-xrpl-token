@@ -25,7 +25,7 @@ Virovita Token(VVT) is used for :
 - For a detailed breakdown of all use cases, technical flow, and tokenomics, please refer to the Virovita Whitepaper in the attachment.
 
 ## Getting Started
-'''bash
+'''bash'
 git clone https://github.com/Gminlend/virovita-vvt-xrpl-token.git
 cd virovita-vvt-xrpl-token
 ## XRPL Explorer Links
